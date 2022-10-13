@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: blanchedalmond;
+}
+h{
+    align-self: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.unknownNumber{
+    background-color: cornsilk;
+    width: 70px;
+    height: 70px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    width: 150px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+}
+.check{
+    width: 70px;
+    height: 70px;
+    font-size: auto;
+    text-align: center;
+}
+.right{
+    font-size: 50px;
+}
